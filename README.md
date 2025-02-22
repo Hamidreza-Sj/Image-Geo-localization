@@ -11,7 +11,6 @@ My experiments focus on:
 - **Training a model** using a subset of the GSV-cities dataset.
 - **Testing** on San Francisco extra small (SF-XS) and Tokyo extra small (Tokyo-XS) datasets, which present significant challenges due to cultural, lighting, and perspective differences.
 
----
 
 ## Datasets
 
@@ -25,7 +24,6 @@ My experiments focus on:
 
 You can find all datasets here: 
 
----
 
 ## Method
 
